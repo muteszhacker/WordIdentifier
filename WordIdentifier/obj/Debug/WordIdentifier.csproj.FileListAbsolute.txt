@@ -1,0 +1,52 @@
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe.config
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.pdb
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csprojResolveAssemblyReference.cache
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.Form1.resources
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.Properties.Resources.resources
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csproj.GenerateResource.Cache
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.exe
+D:\Google Drive\Source code\_Project\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.pdb
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe.config
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.exe
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.pdb
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.pdb
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.Properties.Resources.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csproj.GenerateResource.Cache
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadLexicon.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadCorpus.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.MainForm.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\PRDEditor\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csprojResolveAssemblyReference.cache
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe.config
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.exe
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.pdb
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.pdb
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csprojResolveAssemblyReference.cache
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.MainForm.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadCorpus.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadLexicon.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.Properties.Resources.resources
+D:\My Box Files\Default Sync Folder\Source code\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csproj.GenerateResource.Cache
+D:\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe.config
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.exe
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.pdb
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csprojResolveAssemblyReference.cache
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.MainForm.resources
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadCorpus.resources
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadLexicon.resources
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.Properties.Resources.resources
+D:\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csproj.GenerateResource.Cache
+D:\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe
+D:\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.pdb
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe.config
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.exe
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.pdb
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.exe
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Debug\WordIdentifier.pdb
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.MainForm.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadCorpus.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.LoadLexicon.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.Properties.Resources.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Debug\WordIdentifier.csproj.GenerateResource.Cache

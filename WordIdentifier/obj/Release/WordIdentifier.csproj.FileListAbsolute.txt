@@ -1,0 +1,10 @@
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Release\WordIdentifier.exe.config
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Release\WordIdentifier.exe
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\bin\Release\WordIdentifier.pdb
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Release\WordIdentifier.MainForm.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Release\WordIdentifier.LoadCorpus.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Release\WordIdentifier.LoadLexicon.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Release\WordIdentifier.Properties.Resources.resources
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Release\WordIdentifier.csproj.GenerateResource.Cache
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Release\WordIdentifier.exe
+D:\Dropbox\C#\Application\Natural Language Processing\Source\WordIdentifier\WordIdentifier\obj\Release\WordIdentifier.pdb
